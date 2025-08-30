@@ -16,11 +16,11 @@
 
 2. A crash course: Python for C++ Programmers 
 
-'''
+```
 
 https://python.pages.doc.ic.ac.uk/cpp/lessons/cpp/01-intro/index.html
 
-'''
+```
 
 Feel free to go back to the course for more examples at your convenience. 
 
