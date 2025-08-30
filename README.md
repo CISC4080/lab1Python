@@ -10,7 +10,7 @@
    
 ## Preparation
 
-1. Download Python (Python 3.10, 3.11, or 3.12 or higher) 
+1. Download Python (Python 3.10, 3.11, or 3.12 or higher) (More resources on this will be added) 
 
 2. A crash course: Python for C++ Programmers 
 
