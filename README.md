@@ -71,7 +71,7 @@ The following example illustrates how your program should work.
 
 ## Submission
 
-Submit your code in C++, named **lab1.py** on Blackboard. 
+Submit your code named **lab1.py** on Blackboard (submission link will be added on Blackboard soon). 
 
 
 ## Grading:
