@@ -24,7 +24,7 @@ https://python.pages.doc.ic.ac.uk/cpp/lessons/cpp/01-intro/index.html
 
 Feel free to go back to the course for more examples at your convenience. 
 
-3. Download this data file which contains 2000 random integers.
+3. Download the data file, random_numbers.txt which contains 2000 random integers (one number per line).
    
 ## Program Execution:
 
