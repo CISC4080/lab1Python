@@ -10,9 +10,7 @@
    
 ## Preparation
 
-1. Download Python (  Python 3.10, 3.11, or 3.12 or higher) 
-
-(Xiang: can you find good resources for Windows and Mac users?)
+1. Download Python (Python 3.10, 3.11, or 3.12 or higher) 
 
 2. A crash course: Python for C++ Programmers 
 
