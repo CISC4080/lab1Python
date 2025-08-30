@@ -78,12 +78,11 @@ Submit your code in C++, named **lab1.py** on Blackboard.
 
 ## Grading:
 
-Automatic test cases (50 pts): 5 test cases each tests one of the sorting functions. 
-For this to work, pay attention to the following details:
-
-1. The command used in your program needs to match with those specified in this description, i.e., **selection**, **rselection**, **bubble**, **rbubble**
-2. Before submitting your program, comment out or delete any cout statements except for the one that displays the vector after sorting function is called.
-
-Handgrading (20 pts): style, comment, and logic...
-See the autograder page for this project for details.
-
+The lab is graded as follows: 
+* (10 pts) appropriate comments (functions, file head and important algorithmic ideas)
+* (5 pts) Load data from files
+* (10 pts) linear search
+* (10 pts) binary search, 10 pts extra credit for returning the range of indices 
+* (15 pts) selection sort
+* (10 pts) for measuring and reporting running times
+  
