@@ -33,7 +33,8 @@
 		Python3 --version
 ```
   * Install Homebrew if not already installed:
-    ```		/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     ```
  * Install Python via Homebrew:
    ```
@@ -45,9 +46,7 @@
 2. A crash course: Python for C++ Programmers 
 
 ```
-
 https://python.pages.doc.ic.ac.uk/cpp/lessons/cpp/01-intro/index.html
-
 ```
 
 Feel free to go back to the course for more examples at your convenience. 
