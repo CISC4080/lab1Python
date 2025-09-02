@@ -10,8 +10,38 @@
    
 ## Preparation
 
-1. Download Python (Python 3.10, 3.11, or 3.12 or higher) (More resources on this will be added) 
+1. Download Python (Python 3.10, 3.11, or 3.12 or higher) 
 
+**For Windows system**
+
+ * Go to Python Downloads (https://www.python.org/downloads/windows/)
+ * Download the latest Python 3.11 (or later) installer.
+ * During Installation, check “Add Python to PATH” before clicking Install Now.
+ * Verify installation by opening Command Prompt:
+ ```
+   Python —-version
+```
+  You should see something like:
+
+ ```
+   Python 3.11.x
+   ```	
+
+**For macOS**
+  * Check if Python is pre-installed by running the following command in the terminal:
+```
+		Python3 --version
+```
+  * Install Homebrew if not already installed:
+    ```		/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    ```
+ * Install Python via Homebrew:
+   ```
+   brew install python
+   ```
+ * Verify installation:
+       ```		Python3 --version
+       ```
 2. A crash course: Python for C++ Programmers 
 
 ```
