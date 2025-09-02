@@ -16,7 +16,7 @@ You can either follow this step-by-step [python installation guide](https://real
 
  * [How to install Python on Windows](https://www.theserverside.com/video/How-to-install-Python-on-Windows)
  
- * [How to install Python on Mac] (https://www.youtube.com/watch?v=nhv82tvFfkM&ab_channel=ProgrammingKnowledge)
+ * [How to install Python on Mac](https://www.youtube.com/watch?v=nhv82tvFfkM&ab_channel=ProgrammingKnowledge)
   
 2. Follow the crash course of Python as needed to understand the basic of Python programming:
 
