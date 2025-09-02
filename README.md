@@ -43,7 +43,7 @@
  * Verify installation:
        ```		Python3 --version
        ```
-2. A crash course: 
+2. Follow the crash course of Python as needed to understand the basic of Python programming:
 
  [Python for C++ Programmers](https://python.pages.doc.ic.ac.uk/cpp/lessons/cpp/01-intro/index.html)
 
